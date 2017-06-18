@@ -1,0 +1,20 @@
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Backgrounds\gameBoardBackground.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileBlue_27.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileBlue_31.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileGreen_27.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileGreen_35.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tilePink_27.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tilePink_30.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileRed_27.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileRed_36.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileYellow_27.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Content\Graphics\tileYellow_33.xnb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Puzzle League (Chapter 7).exe
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\Puzzle League (Chapter 7).pdb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\NVorbis.dll
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\bin\DesktopGL\x86\Debug\OpenTK.dll
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\obj\x86\Debug\Puzzle League (Chapter 7).exe
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\obj\x86\Debug\Puzzle League (Chapter 7).pdb
+g:\documents\visual studio 2015\Projects\Puzzle League (Chapter 7)\Puzzle League (Chapter 7)\obj\x86\Debug\Puzzle League (Chapter 7).csprojResolveAssemblyReference.cache
